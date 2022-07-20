@@ -1,3 +1,6 @@
+
+//calular precio en cuotas de 3 productos diferentes
+
 alert("Bienvenido a LOPEZ ELECTRONICA")
 
 var note = 95000;
